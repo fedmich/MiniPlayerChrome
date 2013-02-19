@@ -1,0 +1,6 @@
+body.has_navbar {
+	padding-top: 45px;
+}
+.navbar .pull-right a{
+	color:#00FF00;
+}
